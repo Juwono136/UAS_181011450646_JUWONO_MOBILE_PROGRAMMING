@@ -16,6 +16,3 @@ State Management adalah sebuah design coding yang mana kita memisahkan antara lo
 ### Overview aplikasi
 ![weather app](https://user-images.githubusercontent.com/70443393/150634443-e09cf065-349d-4d83-8c77-fefad32018e3.PNG)
 
-
-### Bukti pembayaran:
-link Download bukti pembayaran lunas: https://drive.google.com/file/d/16Xkm8RFv_MR5Ej61sSMouxy2Dy6Kvozn/view?usp=sharing
